@@ -1,0 +1,7 @@
+:root{
+    --bg-main: hsl(233, 47%, 7%);
+    --bg-card:hsl(244, 38%, 16%);
+    --color-span: hsl(277, 64%, 61%);
+    --color-p:  hsla(0, 0%, 100%, 0.75);
+    --direita: hsl(277, 64%, 61%);
+}
